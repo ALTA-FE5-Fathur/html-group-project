@@ -1,0 +1,38 @@
+.body-home {
+    background-color: #EDF6FF;
+    height: 90vh;
+}
+
+.text-content1 {
+    font-family: Muli;
+    color: #19345E;
+}
+
+.text-content1 h1 {
+    font-family: Roboto;
+    color: #19345E;
+    font-weight: 600;
+}
+
+.text-content1 h1 b {
+    color: #F47522;
+}
+
+.text-content1 h2 {
+    font-weight: 900;
+}
+
+.text-content1 p {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.text-content1 button {
+    background-color: #F47522;
+    border-color: #F47522;
+    color: #FFFFFF;
+}
+
+.text-content1 button:hover {
+    color: #FFFFFF;
+}
