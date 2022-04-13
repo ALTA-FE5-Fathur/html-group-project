@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* navbar */
+
+.navbar-font {
+  color: #19345E;
+  font-weight: bold;
+  font-family: 'Mulish', sans-serif;
+}
+
+.navbar-font:hover {
+  color: #F47522;
+}
+
+.btn-contact {
+  margin-left: 40px;
+  border: 1px #F47522 solid;
+  background-color: #F47522;
+  border-radius: 25px;
+  padding: 5px 30px;
+  color: white;
+  font-family: 'Mulish', sans-serif;
+}
+
+/* akhir navbar */
+
