@@ -32,6 +32,11 @@
   padding: 45px 0;
 }
 
+h1 span {
+  color: #F47522;
+  margin: 30px;
+}
+
 /* contact list */
 img.logo-style {
   display: inline;
@@ -64,7 +69,11 @@ span {
   padding: 0 80px;
 }
 
-input.form-control.size-input {
+.border-input {
+  border-radius: 8px;
+}
+
+.size-input {
   display: flex;
   justify-content: flex-start;
 }
