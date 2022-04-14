@@ -27,3 +27,57 @@
 
 /* akhir navbar */
 
+.title-about {
+  color: #19345E;
+  padding: 45px 0;
+}
+
+/* contact */
+
+.logo-telfon::before {
+  content: url(../assets/phone.png);
+}
+
+.logo-email::before {
+  content: url(../assets/envelope.png);
+}
+
+.logo-website::before {
+  content: url(../assets/envelope.png);
+}
+
+
+/* end of contact */
+
+
+/* forms */
+
+.font-style {
+  font-family: 'Poppins', sans-serif;
+  color: #19345E;
+}
+
+span {
+  color: #FF0303;
+}
+
+.box-form {
+  padding: 0 80px;
+}
+
+input.form-control:hover {
+  border-color:#F47522 ;
+}
+
+button.btn.btn-primary {
+  background-color: #F47522;
+  border: 1px solid #F47522;
+  border-radius: 30px;
+  padding: 5px 35px;
+  margin: 35px 0;
+  
+}
+/* end of forms */
+
+
+
