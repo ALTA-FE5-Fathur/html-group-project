@@ -102,3 +102,19 @@
     font-family: Muli;
     font-weight: 900;
 }
+
+.text-content4 h3 {
+    color: #F47522;
+    font-family: Roboto;
+}
+
+.text-content4 h4 {
+    color: #19345E;
+    font-family: Poppins;
+    font-size: 18px;
+}
+
+.text-content4 p {
+    color: #19345E;
+    font-weight: 600;
+}
