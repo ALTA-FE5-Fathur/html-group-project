@@ -1,0 +1,135 @@
+/* navbar */
+
+/* .navbar-font {
+    color: #19345E;
+    font-weight: bold;
+    font-family: 'Mulish', sans-serif;
+  }
+  
+  .navbar-font:hover {
+    color: #F47522;
+  }
+  
+  .btn-contact {
+    margin-left: 40px;
+    border: 1px #F47522 solid;
+    background-color: #F47522;
+    border-radius: 25px;
+    padding: 5px 30px;
+    color: white;
+    font-family: 'Mulish', sans-serif;
+  } */
+  
+  /* akhir navbar */
+
+.body-home {
+    background-color: #EDF6FF;
+}
+
+.text-content1 {
+    font-family: Muli;
+    color: #19345E;
+}
+
+.text-content1 h1 {
+    font-family: Roboto;
+    color: #19345E;
+    font-weight: 600;
+}
+
+.text-content1 h1 b {
+    color: #F47522;
+}
+
+.text-content1 h2 {
+    font-weight: 900;
+}
+
+.text-content1 p {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.text-content1 button {
+    background-color: #F47522;
+    border-color: #F47522;
+    color: #FFFFFF;
+}
+
+.text-content1 button:hover {
+    color: #FFFFFF;
+}
+
+.text-content2 {
+    color: #19345E;
+}
+
+.text-content2 h3 {
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.text-content2 h4 {
+    font-family: Muli;
+    font-size: 17px;
+}
+
+.text-content3 {
+    background-image: url("../assets/bg-people@2x.png");
+    height: 87vh;
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+.body-content {
+    background-color: #19345eb8;
+    font-family: Muli;
+    font-weight: 900;
+}
+
+.body-content h1{
+    font-weight: 900;
+    font-size: 55px;
+}
+
+.body-content p {
+    font-size: 20px;
+}
+
+.text-header {
+    color: #19345E;
+    font-family: Muli;
+    font-weight: 900;
+}
+
+.text-content4 h3 {
+    color: #F47522;
+    font-family: Roboto;
+}
+
+.text-content4 h4 {
+    color: #19345E;
+    font-family: Poppins;
+    font-size: 18px;
+}
+
+.text-content4 p {
+    color: #19345E;
+    font-weight: 600;
+}
+
+.text-content5 h2 {
+    font: normal normal bold 25px Roboto;
+    color: #19345E;
+}
+
+.text-content5 h4 {
+    color: #707070;
+    font: normal normal normal 18px Poppins;
+}
+
+.text-content5 p {
+    font: normal normal normal 16px Poppins;
+    color: #19345E;
+}
