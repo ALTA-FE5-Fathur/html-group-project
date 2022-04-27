@@ -1,0 +1,26 @@
+.text-header {
+    color: #19345E;
+    font-family: Muli;
+    font-weight: 900;
+}
+
+.blog-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+.blog-content h1 {
+    font-size: 62px;
+}
+
+.blog-content h4 {
+    color: #19345E;
+    font-family: Muli;
+    font-weight: 900;
+}
+
+.blog-content p {
+    color: #19345E;
+    font-family: Poppins;
+    font-size: 18px;
+}
