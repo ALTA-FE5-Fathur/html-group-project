@@ -3,6 +3,7 @@
   padding: 0;
 }
 
+
 /* navbar */
 
 .navbar-font {
@@ -56,6 +57,12 @@ img.logo-style {
 
 /* forms */
 
+.form-control {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
 .font-style {
   font-family: 'Poppins', sans-serif;
   color: #19345E;
@@ -67,6 +74,7 @@ span {
 
 .box-form {
   padding: 0 80px;
+  margin-bottom: 200px;
 }
 
 .border-input {
@@ -95,7 +103,13 @@ button.btn.btn-primary {
   color: white;
 }
 
+
 /* end of forms */
 
 
 
+/* footer */
+
+.footer-oldblue {
+  background-color: #19345E;
+}
